@@ -1,0 +1,6 @@
+{
+  "name": "Research RAG",
+  "description": "Research RAG assistant powered by Groq to answer questions over uploaded PDF documents with real-time interactive citations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
